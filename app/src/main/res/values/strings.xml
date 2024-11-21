@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">COMP3606A2PublisherApp</string>
+    <string name="latLong" >Longitude: %.3f, Latitude: %.3f</string>
+</resources>
